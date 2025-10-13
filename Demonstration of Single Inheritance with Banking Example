@@ -51,7 +51,7 @@ class SavingsAccount extends BankAccount {
 public class BankDemo {
     public static void main(String[] args) {
         // Create a SavingsAccount object
-        SavingsAccount account = new SavingsAccount("Sumit Wagdare", 5000);
+        SavingsAccount account = new SavingsAccount("Aditya Shendge", 5000);
 
         // Perform banking operations
         account.checkBalance();
